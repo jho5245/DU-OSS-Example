@@ -7,3 +7,5 @@
 세 번째 수정
 
 sp qjss
+
+local에서 수정함
